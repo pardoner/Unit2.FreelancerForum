@@ -1,0 +1,25 @@
+
+ body{
+    border: solid 1px black;
+    margin: 1rem;
+    text-align: center;
+  }
+
+li {
+    list-style-type: none;
+}
+
+#people { display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+padding-left: 35px;}
+
+#namesetc { display: flex;
+    justify-content: space-around;
+}
+
+#jobs {
+padding-right: 55px;}
+
+#prices {
+    padding-right: 35px;}
